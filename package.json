@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "keycloak-js": "^22.0.1",
+    "preline": "^1.9.0"
+  }
+}
