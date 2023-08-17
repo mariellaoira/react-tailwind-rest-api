@@ -3,7 +3,7 @@ function Footer() {
         <footer className="mt-auto w-full max-w-[85rem] py-10 px-4 sm:px-6 lg:px-8 mx-auto">
             <div className="text-center">
                 <div>
-                    <a className="flex-none text-xl font-semibold text-black dark:text-white" href="#" aria-label="Brand">Mariella Joyce Oira</a>
+                    <a className="flex-none text-xl font-semibold text-black dark:text-white" href="https://www.linkedin.com/in/mariella-oira/" aria-label="Brand">Mariella Joyce Oira</a>
                 </div>
 
 
